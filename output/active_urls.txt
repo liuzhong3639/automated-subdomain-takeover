@@ -1,7 +1,41 @@
 
+http://33.wzer.net
+http://58.wzer.net
+http://artschool.wzer.net
+http://cloudlib.wzer.net
+http://ddxj.wzer.net
+http://djtj.wzer.net
+http://jysg.wzer.net
+http://ksy.wzer.net
+http://kszx.wzer.net
+http://m.wzer.net
 http://oimg-stg.huolala.cn
 http://oms2.huolala.cn
+http://pjglpt.wzer.net
 http://pmc.huolala.cn
+http://rczp.wzer.net
+http://sfms.wzer.net
+http://space.wzer.net
+http://tv.wzer.net
+http://wz14g.wzer.net
+http://wz21.wzer.net
+http://wz22.wzer.net
+http://wz51z.wzer.net
+http://wz5z.wzer.net
+http://wz8g.wzer.net
+http://wzcsxx.wzer.net
+http://wzeg.wzer.net
+http://wzew.wzer.net
+http://wzms.wzer.net
+http://wzpns.wzer.net
+http://wzzs.wzer.net
+http://wzzyzz.wzer.net
+http://yjy.wzer.net
+http://yssb.wzer.net
+http://yuntu.wzer.net
+http://zjxf.wzer.net
+http://zjxj.wzer.net
+http://zk.wzer.net
 https://act.huolala.cn
 https://act2-static.huolala.cn
 https://act2.huolala.cn
@@ -15,6 +49,7 @@ https://app.huolala.cn
 https://appdriver-static.huolala.cn
 https://appuser-static.huolala.cn
 https://appweb.huolala.cn
+https://assess.wzer.net
 https://banjia.huolala.cn
 https://banyun.huolala.cn
 https://bcc.huolala.cn
@@ -23,6 +58,7 @@ https://bdxiaochengxu-pre.huolala.cn
 https://cainiao.huolala.cn
 https://charge.huolala.cn
 https://charter.huolala.cn
+https://cjrh.wzer.net
 https://cl.huolala.cn
 https://csc-api.huolala.cn
 https://csc-fb.huolala.cn
@@ -36,6 +72,7 @@ https://dapiext.huolala.cn
 https://dappweb-gra.huolala.cn
 https://dappweb.huolala.cn
 https://das.huolala.cn
+https://dj.wzer.net
 https://dloc3-batch.huolala.cn
 https://dloc3.huolala.cn
 https://dmeta.huolala.cn
@@ -47,6 +84,9 @@ https://eact.huolala.cn
 https://eadmin.huolala.cn
 https://eapi.huolala.cn
 https://eappweb.huolala.cn
+https://ebim.wzer.net
+https://ebimgateway.wzer.net
+https://ebimopenpai.wzer.net
 https://ehr-api.huolala.cn
 https://ehr.huolala.cn
 https://eim.huolala.cn
@@ -65,6 +105,7 @@ https://img.appweb.huolala.cn
 https://invoice.huolala.cn
 https://invoicep.huolala.cn
 https://iot.huolala.cn
+https://kd.wzer.net
 https://labao.huolala.cn
 https://lading.huolala.cn
 https://lalaapi.huolala.cn
@@ -77,6 +118,7 @@ https://ltl-ka-pre.huolala.cn
 https://ltl.huolala.cn
 https://m.huolala.cn
 https://m.webapp.huolala.cn
+https://mail.wzer.net
 https://map-api.huolala.cn
 https://mapi-pre.huolala.cn
 https://mapi.huolala.cn
@@ -92,6 +134,7 @@ https://mktapi.huolala.cn
 https://mp.huolala.cn
 https://mpd.huolala.cn
 https://mps.huolala.cn
+https://nic.wzer.net
 https://oimg.huolala.cn
 https://oms.huolala.cn
 https://open.data.huolala.cn
@@ -106,6 +149,7 @@ https://pub-appweb-api.huolala.cn
 https://pub-appweb.huolala.cn
 https://pushapi-gra.huolala.cn
 https://pushapi.huolala.cn
+https://px.wzer.net
 https://risk-gateway.huolala.cn
 https://s-oms.huolala.cn
 https://s-wxa.huolala.cn
@@ -132,4 +176,5 @@ https://wuliu.huolala.cn
 https://www.huolala.cn
 https://wx.huolala.cn
 https://wxa.huolala.cn
+https://wzyywz.wzer.net
 https://yi-bot-picture.huolala.cn
