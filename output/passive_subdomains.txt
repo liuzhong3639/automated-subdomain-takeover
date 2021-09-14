@@ -36,7 +36,9 @@ acopm.cloud.alipay.com
 acp.alipay.com
 acparamweb.cloud.alipay.com
 act.life.alipay.com
+activity-api.tuhu.cn
 ad.alipay.com
+ad.tuhu.cn
 ada.alipay.com
 adata.health.ikang.com
 adc.alipay.com
@@ -97,9 +99,11 @@ api-cmsnew.ikang.com
 api-dev1.daoyitong.com
 api.alipay.com
 api.daoyitong.com
+api.tuhu.cn
 apimg.alipay.com
 app.alipay.com
 app.ikang.com
+app.tuhu.cn
 appemployee.ikang.com
 application.alipay.com
 appstore.alipay.com
@@ -184,6 +188,8 @@ beiersdorf.health.ikang.com
 benefitprod.alipay.com
 beta.alipay.com
 bf.alipay.com
+bgp-cn.tuhu.cn
+bgp-com.tuhu.cn
 bhaf.health.ikang.com
 bigfishweb.alipay.com
 bill.alipay.com
@@ -201,6 +207,7 @@ blockchain.alipay.com
 blog.alipay.com
 bluefocus.health.ikang.com
 booking.misnew.ikang.com
+bridgestone.tuhu.cn
 bsoc.cloud.alipay.com
 bsq.ikang.com
 btv.health.ikang.com
@@ -211,6 +218,7 @@ bumng.alipay.com
 buservice.alipay.com
 buservice.cloud.alipay.com
 business.alipay.com
+by.tuhu.cn
 byl.ikang.com
 c.alipay.com
 c.ikang.com
@@ -228,6 +236,7 @@ captain.alipay.com
 card.alipay.com
 care.alipay.com
 cashier.alipay.com
+cashierapi.tuhu.cn
 cashierem14.alipay.com
 cashieret15.alipay.com
 cashieret2.alipay.com
@@ -304,6 +313,7 @@ ciic.health.ikang.com
 citigpi-bizdata-cert.alipay.com
 cjb.alipay.com
 cjdyp.ikang.com
+cl-gateway.tuhu.cn
 clientsc.alipay.com
 clive.alipay.com
 cloud.alipay.com
@@ -435,6 +445,7 @@ custweb.alipay.com
 cv.alipay.com
 cw.alipay.com
 d.alipay.com
+d.tuhu.cn
 d1.alipay.com
 d3ctf.antctf.alipay.com
 da.alipay.com
@@ -552,6 +563,7 @@ fengdie.alipay.com
 fenqi.alipay.com
 fenxiao.ikang.com
 file.alipay.com
+file.tuhu.cn
 finance.alipay.com
 financemb.alipay.com
 financemng.alipay.com
@@ -619,6 +631,7 @@ gtm-cn-oew1ym3no0h.ikang.com
 guard.alipay.com
 guardian.alipay.com
 gugong.health.ikang.com
+gw.tuhu.cn
 gz-huawei.health.ikang.com
 gzf.ikang.com
 gzgb.ikang.com
@@ -663,6 +676,8 @@ huabei.alipay.com
 huabei.open.alipay.com
 huawei-sz.health.ikang.com
 huiyuan.alipay.com
+huodong.tuhu.cn
+hushuoapi.tuhu.cn
 hybrid.alipay.com
 hydra.alipay.com
 hzbj.ikang.com
@@ -713,11 +728,13 @@ ilogin.alipay.com
 im-wechat.ikang.com
 im.ikang.com
 image.alipay.com
+image.tuhu.cn
 images.ikang.com
 imatchengine.alipay.com
 imdap-sea.alipay.com
 imdap.alipay.com
 img.alipay.com
+img.tuhu.cn
 imgs-ac.alipay.com
 imgs-br-global.alipay.com
 imgs-eu-global.alipay.com
@@ -733,6 +750,7 @@ imobilegw-vn-l.alipay.com
 imobilegw.alipay.com
 industry.alipay.com
 innovate.alipay.com
+inout.tuhu.cn
 insautobff.alipay.com
 insbffweb.alipay.com
 insclaimbff.alipay.com
@@ -780,6 +798,7 @@ isp.alipay.com
 isupergw.alipay.com
 isv.alipay.com
 it.ikang.com
+item.tuhu.cn
 itscenter.alipay.com
 ivy.alipay.com
 jellyfish.alipay.com
@@ -835,6 +854,8 @@ lazada-ph-l.alipay.com
 lazada-sg-l.alipay.com
 lazada-vn-l.alipay.com
 lazada.ac.alipay.com
+lb-tx.tuhu.cn
+lb.tuhu.cn
 lbs.alipay.com
 lc.alipay.com
 lcs.alipay.com
@@ -900,6 +921,7 @@ mail.ikangdental.com
 mail.ikangexcel.com
 mail.ikanggroup.com
 mail.waohc.com
+maint-api.tuhu.cn
 maintenance.alipay.com
 mal.ikang.com
 mali.alipay.com
@@ -980,6 +1002,9 @@ mis3.ikang.com
 mis3new.ikang.com
 misnew.ikang.com
 misumi.health.ikang.com
+mkt-advertisement.tuhu.cn
+mkt-gateway.tuhu.cn
+mkt-rt-notice-receiver.tuhu.cn
 ml.alipay.com
 mm.alipay.com
 mmgb.ikang.com
@@ -1013,6 +1038,7 @@ mp.alipay.com
 mpi.alipay.com
 mpush.alipay.com
 mpushlink.alipay.com
+mr.tuhu.cn
 mrchportalweb.alipay.com
 mrexcashier.alipay.com
 mrm.alipay.com
@@ -1156,6 +1182,7 @@ mx98.mail.alipay.com
 mx99.mail.alipay.com
 my.alipay.com
 my.ikang.com
+my.tuhu.cn
 mybankweb.alipay.com
 mychain.alipay.com
 myfccfmng.tms.alipay.com
@@ -1263,8 +1290,10 @@ overseas.alipay.com
 ovt.health.ikang.com
 p.alipay.com
 p.ikang.com
+pa.tuhu.cn
 pactl.health.ikang.com
 pai.alipay.com
+paidanapi.tuhu.cn
 panda.alipay.com
 pandaweb.alipay.com
 pandora.alipay.com
@@ -1374,7 +1403,9 @@ repo.alipay.com
 report.health.ikang.com
 repos.alipay.com
 repository.alipay.com
+res.tuhu.cn
 rescue.alipay.com
+resource.tuhu.cn
 rfmd.health.ikang.com
 richfit.health.ikang.com
 risk.alipay.com
@@ -1388,6 +1419,7 @@ rts.alipay.com
 rtsgz.alipay.com
 rzfiberhome.health.ikang.com
 s.alipay.com
+s.tuhu.cn
 s.ynuf.alipay.com
 safe.alipay.com
 sage.alipay.com
@@ -1439,6 +1471,7 @@ shell.alipay.com
 shenghuo.alipay.com
 shgb.ikang.com
 shhp.ikang.com
+shop.tuhu.cn
 shrek.alipay.com
 shyp.ikang.com
 siemens-sh.health.ikang.com
@@ -1514,6 +1547,7 @@ szlh.ikang.com
 t.alipay.com
 t.health.ikang.com
 t.ikang.com
+t.tuhu.cn
 ta.alipay.com
 taikanglife1.health.ikang.com
 taobao.alipay.com
@@ -1575,6 +1609,7 @@ trust.alipay.com
 tscenter.alipay.com
 tt.alipay.com
 tuan.ikang.com
+tuhu.cn
 tuishui.alipay.com
 twc.alipay.com
 twsm.health.ikang.com
@@ -1657,6 +1692,7 @@ wt.ikang.com
 www.37c.com.cn
 www.abc.alipay.com
 www.ac.alipay.com
+www.access.tuhu.cn
 www.accounts.alipay.com
 www.accsbs.cloud.alipay.com
 www.alipay.com
@@ -1679,6 +1715,7 @@ www.ikangevergreen.net
 www.ikangexcel.com
 www.ikanggroup.com
 www.iopen.alipay.com
+www.item.tuhu.cn
 www.job.alipay.com
 www.mclient.alipay.com
 www.mrchportalweb.alipay.com
@@ -1690,12 +1727,16 @@ www.shdaoyi.com
 www.shenghuo.alipay.com
 www.tijianbao.com
 www.tracert.alipay.com
+www.tuhu.cn
 www.uat2.ee.ikang.com
 www.waohc.com
+www.www.tuhu.cn
+www.wx.tuhu.cn
 www.yebprod.alipay.com
 www2.alipay.com
 www2.ikang.com
 wx.ikangdental.com
+wx.tuhu.cn
 wzgb.ikang.com
 x.alipay.com
 x2.alipay.com
@@ -1709,6 +1750,9 @@ xinhehui.health.ikang.com
 xj.alipay.com
 xl.alipay.com
 xsq.ikang.com
+xue.tuhu.cn
+xueadmin.tuhu.cn
+xueapi.tuhu.cn
 xueyuan.alipay.com
 xwm.ikang.com
 xwmy-vip.ikang.com
@@ -1730,6 +1774,7 @@ ytkf.ikang.com
 ytls.ikang.com
 ytzf.ikang.com
 yucheng.health.ikang.com
+yun.tuhu.cn
 yunf.alipay.com
 yunxiao.cloud.alipay.com
 yuri.alipay.com

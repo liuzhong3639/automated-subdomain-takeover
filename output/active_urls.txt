@@ -19,6 +19,7 @@ http://cdndownload.alipay.com
 http://cloud.alipay.com
 http://club3.alipay.com
 http://image.alipay.com
+http://image.tuhu.cn
 http://loggw-ex.alipay.com
 http://mergepayprodew9.alipay.com
 http://mergepayprodsu18.alipay.com
@@ -127,6 +128,8 @@ https://acappcore.cloud.alipay.com
 https://accorderexprod.alipay.com
 https://achelmetcore.cloud.alipay.com
 https://acparamweb.cloud.alipay.com
+https://activity-api.tuhu.cn
+https://ad.tuhu.cn
 https://ada.alipay.com
 https://adata.health.ikang.com
 https://adgw-ulk.alipay.com
@@ -157,9 +160,11 @@ https://apdevcenter.cloud.alipay.com
 https://api-cmsnew.ikang.com
 https://api-dev1.daoyitong.com
 https://api.daoyitong.com
+https://api.tuhu.cn
 https://apimg.alipay.com
 https://app.alipay.com
 https://app.ikang.com
+https://app.tuhu.cn
 https://appemployee.ikang.com
 https://appstore.alipay.com
 https://appxprod.alipay.com
@@ -207,6 +212,8 @@ https://bayer.health.ikang.com
 https://bdw.ikang.com
 https://beiersdorf.health.ikang.com
 https://benefitprod.alipay.com
+https://bgp-cn.tuhu.cn
+https://bgp-com.tuhu.cn
 https://bhaf.health.ikang.com
 https://biostime.health.ikang.com
 https://bis.alipay.com
@@ -222,6 +229,7 @@ https://bsq.ikang.com
 https://btv.health.ikang.com
 https://buservice.cloud.alipay.com
 https://business.alipay.com
+https://by.tuhu.cn
 https://byl.ikang.com
 https://c.ikang.com
 https://ca-pre.alipay.com
@@ -233,6 +241,7 @@ https://cap4lab.cloud.alipay.com
 https://captain.alipay.com
 https://card.alipay.com
 https://cashier.alipay.com
+https://cashierapi.tuhu.cn
 https://cashierem14.alipay.com
 https://cashieret15.alipay.com
 https://cashierew9.alipay.com
@@ -271,6 +280,7 @@ https://cignacmb.health.ikang.com
 https://ciic.health.ikang.com
 https://cjb.alipay.com
 https://cjdyp.ikang.com
+https://cl-gateway.tuhu.cn
 https://clientsc.alipay.com
 https://clive.alipay.com
 https://cloud.open.alipay.com
@@ -317,6 +327,7 @@ https://ctsfreight.health.ikang.com
 https://custweb.alipay.com
 https://cw.alipay.com
 https://d.alipay.com
+https://d.tuhu.cn
 https://daas.cloud.alipay.com
 https://dahuatech.health.ikang.com
 https://daoyitong.com
@@ -368,6 +379,7 @@ https://fedex.health.ikang.com
 https://feedback.alipay.com
 https://fenxiao.ikang.com
 https://file.alipay.com
+https://file.tuhu.cn
 https://financeprod.alipay.com
 https://financing.alipay.com
 https://finsignweb.alipay.com
@@ -407,6 +419,7 @@ https://gome.health.ikang.com
 https://greatlife.health.ikang.com
 https://gtm-cn-oew1ym3no0h.ikang.com
 https://gugong.health.ikang.com
+https://gw.tuhu.cn
 https://gz-huawei.health.ikang.com
 https://gzf.ikang.com
 https://gzgb.ikang.com
@@ -442,6 +455,8 @@ https://hpmweb.alipay.com
 https://huabei.alipay.com
 https://huabei.open.alipay.com
 https://huawei-sz.health.ikang.com
+https://huodong.tuhu.cn
+https://hushuoapi.tuhu.cn
 https://hzbj.ikang.com
 https://hzlawyer.health.ikang.com
 https://i.ikang.com
@@ -477,6 +492,7 @@ https://imatchengine.alipay.com
 https://imdap-sea.alipay.com
 https://imdap.alipay.com
 https://img.alipay.com
+https://img.tuhu.cn
 https://imgs-ac.alipay.com
 https://imgs-br-global.alipay.com
 https://imgs-eu-global.alipay.com
@@ -491,6 +507,7 @@ https://imgs.alipay.com
 https://imobilegw-vn-l.alipay.com
 https://imobilegw.alipay.com
 https://innovate.alipay.com
+https://inout.tuhu.cn
 https://insautobff.alipay.com
 https://insbffweb.alipay.com
 https://insclaimbff.alipay.com
@@ -526,6 +543,7 @@ https://isoftstone.health.ikang.com
 https://isupergw.alipay.com
 https://isv.alipay.com
 https://it.ikang.com
+https://item.tuhu.cn
 https://itscenter.alipay.com
 https://jf.alipay.com
 https://jfb.alipay.com
@@ -560,6 +578,8 @@ https://lazada-ph-l.alipay.com
 https://lazada-sg-l.alipay.com
 https://lazada-vn-l.alipay.com
 https://lazada.ac.alipay.com
+https://lb-tx.tuhu.cn
+https://lb.tuhu.cn
 https://ld.health.ikang.com
 https://leadcoretech.health.ikang.com
 https://leeco2016.health.ikang.com
@@ -600,6 +620,7 @@ https://mail.ikang.com
 https://mail.ikangdental.com
 https://mail.ikanggroup.com
 https://mail.waohc.com
+https://maint-api.tuhu.cn
 https://mal.ikang.com
 https://mali.alipay.com
 https://maliprod.alipay.com
@@ -648,6 +669,9 @@ https://mini.open.alipay.com
 https://miniapp.open.alipay.com
 https://minicode.alipay.com
 https://misumi.health.ikang.com
+https://mkt-advertisement.tuhu.cn
+https://mkt-gateway.tuhu.cn
+https://mkt-rt-notice-receiver.tuhu.cn
 https://ml.alipay.com
 https://mm.alipay.com
 https://mmgb.ikang.com
@@ -666,6 +690,7 @@ https://mobiless.alipay.com
 https://mobileweb.alipay.com
 https://mp.alipay.com
 https://mpush.alipay.com
+https://mr.tuhu.cn
 https://mrchportalweb.alipay.com
 https://mrexcashier.alipay.com
 https://mrmoaprod.alipay.com
@@ -678,6 +703,7 @@ https://mugwpre.alipay.com
 https://mvn.cloud.alipay.com
 https://my.alipay.com
 https://my.ikang.com
+https://my.tuhu.cn
 https://myh2.alipay.com
 https://myikangapi.health.ikang.com
 https://myjsapi.alipay.com
@@ -715,7 +741,9 @@ https://overseaprod.alipay.com
 https://ovt.health.ikang.com
 https://p.alipay.com
 https://p.ikang.com
+https://pa.tuhu.cn
 https://pactl.health.ikang.com
+https://paidanapi.tuhu.cn
 https://parker.health.ikang.com
 https://partner.alipay.com
 https://pass.alipay.com
@@ -747,12 +775,14 @@ https://rds.alipay.com
 https://real.alipay.com
 https://remit.alipay.com
 https://report.health.ikang.com
+https://res.tuhu.cn
 https://rfmd.health.ikang.com
 https://richfit.health.ikang.com
 https://root.daoyitong.com
 https://root.ikang.com
 https://root.tijianbao.com
 https://rzfiberhome.health.ikang.com
+https://s.tuhu.cn
 https://sales.biz.ikang.com
 https://samsung.ee.ikang.com
 https://samsung.health.ikang.com
@@ -780,6 +810,7 @@ https://shanghaidisneyresort.health.ikang.com
 https://shanghu.alipay.com
 https://shenghuo.alipay.com
 https://shhp.ikang.com
+https://shop.tuhu.cn
 https://shyp.ikang.com
 https://siemens-sh.health.ikang.com
 https://skf.health.ikang.com
@@ -816,6 +847,7 @@ https://szft.ikang.com
 https://szhq.ikang.com
 https://szlh.ikang.com
 https://t.health.ikang.com
+https://t.tuhu.cn
 https://taikanglife1.health.ikang.com
 https://tbapi.alipay.com
 https://td-tech.health.ikang.com
@@ -835,6 +867,7 @@ https://tracert.alipay.com
 https://tradeeportlet.alipay.com
 https://tradeexprod.alipay.com
 https://tuan.ikang.com
+https://tuhu.cn
 https://tz.alipay.com
 https://uat.cas.ikang.com
 https://uat.ee.ikang.com
@@ -870,6 +903,7 @@ https://wrigleychina.health.ikang.com
 https://ws.alipay.com
 https://wsn.ikang.com
 https://wt.ikang.com
+https://www.access.tuhu.cn
 https://www.alipay.com
 https://www.bjhealthcare.com
 https://www.chinapag.com
@@ -881,14 +915,19 @@ https://www.ikangdental.com
 https://www.ikangevergreen.com
 https://www.ikanggroup.com
 https://www.tijianbao.com
+https://www.tuhu.cn
 https://www2.alipay.com
 https://www2.ikang.com
 https://wx.ikangdental.com
+https://wx.tuhu.cn
 https://wzgb.ikang.com
 https://xdf.health.ikang.com
 https://xiaoxi.alipay.com
 https://xinhehui.health.ikang.com
 https://xsq.ikang.com
+https://xue.tuhu.cn
+https://xueadmin.tuhu.cn
+https://xueapi.tuhu.cn
 https://xueyuan.alipay.com
 https://xwm.ikang.com
 https://xwmy.ikang.com
@@ -906,6 +945,7 @@ https://ytkf.ikang.com
 https://ytls.ikang.com
 https://ytzf.ikang.com
 https://yucheng.health.ikang.com
+https://yun.tuhu.cn
 https://yyc.ikang.com
 https://z.alipay.com
 https://zabbix.alipay.com
